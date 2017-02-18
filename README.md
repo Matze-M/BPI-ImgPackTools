@@ -1,1 +1,1 @@
-# BPI-packtools
+# BPI-ImgPackTools
